@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+<p align="center">
+  <a href="https://github.com/RisasDev">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lc0deh&show_icons=true&theme=radical&count_private=true&locale=en" alt="lc0deh"/>
+  </a>
+</p>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
