@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/RisasDev">
+  <a href="https://github.com/lc0deh">
     <img src="https://github-readme-stats.vercel.app/api?username=lc0deh&show_icons=true&theme=radical&count_private=true&locale=en" alt="lc0deh"/>
   </a>
 </p>
