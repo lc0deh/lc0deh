@@ -30,7 +30,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
 </div>
-
+<div></div>
 <div align="left">
   <p><b>Contact me</b></p>
   <a href="https://discord.galaxyhq.cc" target="_blank">
