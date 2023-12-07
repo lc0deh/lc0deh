@@ -1,5 +1,5 @@
 <p><b>Hello, my name is Joshua but you call me lc0deh</b></p>
-<p>💻 I have knowledge in <b>Java</b> <b>Html</b> <b>PhP</b> <b>C</b> and <b>C++</b><br>🎉 I'm <b>22</b> years old</p>
+<p>💻 I have knowledge on <b>Java</b>, <b>Html</b>, <b>PhP</b>, <b>C</b> and <b>C++</b><br> I have <b>17</b> years old</p>
 
 <p>
   <a href="https://github.com/lc0deh">
